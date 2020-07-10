@@ -1,6 +1,6 @@
 # pixelbrackets
 
-![Avatar](./public/circle-small.png)
+![Avatar](https://pixelbrackets.de/assets/img/circle-small.png)
 
 **Dan Untenzu**
 
