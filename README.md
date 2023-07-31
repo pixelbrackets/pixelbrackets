@@ -2,9 +2,9 @@
 
 ![Avatar](https://pixelbrackets.de/assets/img/circle-small.png)
 
-**Dan Untenzu**
+**Dan Kleine** (Dan Untenzu)
 
-Webdeveloper from Dresden & TYPO3-Evangelist
+Backend Technical Lead from Dresden & TYPO3-Evangelist
 
 📍 Dresden, Germany
 
